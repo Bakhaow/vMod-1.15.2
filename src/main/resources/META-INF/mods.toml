@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+[[mods]]
+modId="vmod"
+version="1.0"
+displayName="vMod"
+credits="Ty Bakhaow"
+description='''
+vMod's mod (répétitif hein ?)
+'''

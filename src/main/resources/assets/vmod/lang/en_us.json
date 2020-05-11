@@ -1,0 +1,13 @@
+{
+	"item.vmod.steel": "Steel",
+	"itemGroup.vmod": "vMod",
+	"item.vmod.steel_axe": "Steel Axe",
+	"item.vmod.steel_sword": "Steel Sword",
+	"item.vmod.steel_pickaxe": "Steel Pickaxe",
+	"item.vmod.steel_shovel": "Steel Shovel",
+	"item.vmod.steel_hoe": "Steel Hoe",
+	"block.vmod.steel_ore": "Steel Ore",
+	"block.vmod.steel_nether_ore": "Steel Nether Ore",
+	"block.vmod.steel_block": "Steel Block",
+	"block.vmod.forge": "Forge"
+}
